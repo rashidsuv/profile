@@ -1,0 +1,15 @@
+
+> tmp-app@0.1.0 dev /app
+> next dev
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+
+✓ Starting...
+✓ Ready in 1196ms
+○ Compiling / ...
+ GET / 200 in 5.7s (compile: 5.1s, render: 596ms)
+ GET / 200 in 107ms (compile: 7ms, render: 100ms)
+ ELIFECYCLE  Command failed.
+[?25h
